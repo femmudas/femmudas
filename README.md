@@ -13,11 +13,11 @@
 <br />
 
 
-Hey, I'm Femmudas.
-
-I entered the cryptocurrency industry 3 years ago and gained technical experience during this journey and discovered the secrets of the crypto world. For the past 2 years, I have been working on ensuring the reliability and healthy operation of blockchain networks as a Node Runner. During this process, I gained significant knowledge and skills in network management and security. I developed a deep understanding of the functioning of blockchain networks and fulfilled my responsibilities in ensuring network security.
-
-At the same time, I actively took part in test networks to explore the crypto world and had the opportunity to experience the practical applications of blockchain technology. During this process, I worked on different blockchain projects and tried to understand the diversity of the blockchain ecosystem by examining the technical details of these projects.
+> Hey, I'm Femmudas.
+>
+> I entered the cryptocurrency industry 3 years ago and gained technical experience during this journey and discovered the secrets of the crypto world. For the past 2 years, I have been working on ensuring the reliability and healthy operation of blockchain networks as a Node Runner. During this process, I gained significant knowledge and skills in network management and security. I developed a deep understanding of the functioning of blockchain networks and fulfilled my responsibilities in ensuring network security.
+>
+> At the same time, I actively took part in test networks to explore the crypto world and had the opportunity to experience the practical applications of blockchain technology. During this process, I worked on different blockchain projects and tried to understand the diversity of the blockchain ecosystem by examining the technical details of these projects.
 
 
 
